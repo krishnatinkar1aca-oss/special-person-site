@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { motion, AnimatePresence} from 'framer-motion';
 import IntroScreen from '@/components/screens/IntroScreen';
-import BalloonScreen from '@/components/screens/BalloonScreen';
+import ReasonScreen from '@/components/screens/ReasonScreen';
 import LetterScreen from '@/components/screens/LetterScreen';
 import OutroScreen from '@/components/screens/OutroScreen';
 
@@ -15,7 +15,7 @@ export default function SpecialPersonApp() {
 
       <AnimatePresence mode="wait">
         {currentScreen === 0 && <IntroScreen key="intro" onNext={() => setCurrentScreen(1)} />}
-        {currentScreen === 1 && <BalloonScreen key="balloons" onNext={() => setCurrentScreen(2)} />}
+        {currentScreen === 1 && <ReasonScreen key="reason" onNext={() => setCurrentScreen(2)} />}
         {currentScreen === 2 && <LetterScreen key="letter" onNext={() => setCurrentScreen(3)} />}
         {currentScreen === 3 && <OutroScreen key="outro" onReset={() => setCurrentScreen(0)} />}
       </AnimatePresence>

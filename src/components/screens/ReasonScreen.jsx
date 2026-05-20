@@ -9,7 +9,7 @@ const REASONS = [
   "You’re one of a kind 🥹"
 ];
 
-function BalloonScreen({ onNext }) {
+function ReasonScreen({ onNext }) {
   return (
     <motion.div
       initial={{ opacity: 0, x: 40 }}
@@ -55,4 +55,4 @@ function BalloonScreen({ onNext }) {
   );
 }
 
-export default BalloonScreen;
+export default ReasonScreen;
