@@ -14,7 +14,7 @@ function IntroScreen({ onNext }) {
           className="mb-8"
         >
           <div className="w-32 h-32 bg-white rounded-4xl border-4 border-[#FFB6C1] shadow-md flex items-center justify-center relative">
-            <img src="/stickers/hey.webp" alt="cute bear" className="absolute -bottom-1.5 z-10" />
+            <img src="/hey.webp" alt="cute bear" className="absolute -bottom-1.5 z-10" />
           </div>
         </motion.div>
 
