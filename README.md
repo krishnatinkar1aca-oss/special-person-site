@@ -43,7 +43,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to expl
 
 Follow me for more emotional surprise websites and creative dev content:
 
-- 📷 Instagram: [@anujbuilds](https://instagram.com/anujbuilds.dev)
+- 📷 Instagram: [@anujbuilds.dev](https://instagram.com/anujbuilds.dev)
 - 🎬 YouTube: [@anujbuilds](https://youtube.com/@anujbuilds)
 - 🐦 Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
 - 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
