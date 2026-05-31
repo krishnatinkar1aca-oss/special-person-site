@@ -19,7 +19,7 @@ function IntroScreen({ onNext }) {
         </motion.div>
 
         <h1 className="text-5xl md:text-6xl font-semibold mb-4 text-[#FF69B4] font-caveat text-center">
-          Hi Cutie :)
+          Hyy janeman:)
         </h1>
         <p className="text-lg md:text-xl font-medium mb-8">
           I made a little something just for you. Ready to see why you're so special?
